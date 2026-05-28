@@ -1,0 +1,5 @@
+database/battery.db
+__pycache__/
+*.pyc
+.DS_Store
+generate_data.py
